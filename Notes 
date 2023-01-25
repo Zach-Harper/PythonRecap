@@ -1,0 +1,17 @@
+Step 1: Clone a repository
+Step 2: Creating a virtual environment
+    to create VE: python3 -m venv .venv -- in new terminal
+Step 3: Activate virtual environment 
+    to activate VE: source .venv/bin/activate
+Step 4: Installing 3rd party library 
+    pip3 install matplotlib
+
+to ignore excess files type virtual environment name (.venv/) in 
+.gitignore
+
+_____________________
+
+Non-green means that it is in your git repository, if green then
+it is the current file you are owrking and the changes you have made. 
+
+before commiting, enter as message
